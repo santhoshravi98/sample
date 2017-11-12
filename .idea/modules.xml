@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Stark.iml" filepath="$PROJECT_DIR$/Stark.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stark-master-d28efbab792bbde12c154594858bc48442fde713.iml" filepath="$PROJECT_DIR$/Stark-master-d28efbab792bbde12c154594858bc48442fde713.iml" />
     </modules>
   </component>
 </project>
